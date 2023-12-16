@@ -8,7 +8,6 @@ use crate::generated::state::{
 	GemMetadata,
 };
 
-
 /// Accounts:
 /// 0. `[writable, signer]` fee_payer: [AccountInfo] Auto-generated, default fee payer
 /// 1. `[writable, signer]` mint: [Mint] 
